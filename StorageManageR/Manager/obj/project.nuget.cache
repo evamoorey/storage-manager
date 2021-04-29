@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dujhT46tUEC+MogVAqjO1THkzZ75tN215LaMSRZUhPvo4pY5+3Us8S0htEgYrIrGXo3nB1S7+nvs1f4B4dMjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\home\\StorageManageR\\Manager\\Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
